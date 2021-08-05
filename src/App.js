@@ -1,6 +1,14 @@
 import React from "react";
-
+import Nav from "./components/Nav";
+import Banner from "./components/Banner";
+import Body from "./components/Body";
 
 export default function App() {
-    return <h1> This text is from App.js </h1>;
+  return (
+    <div>
+      <Nav />
+      <Banner />
+      <Body />
+    </div>
+  );
 }
