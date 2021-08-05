@@ -4,8 +4,11 @@ export default function Banner() {
   return (
     <div>
       <div class="sticky_btn">
-        <a href="#top">
-          <i class="fab arrow-circle-up"></i>
+        <a
+          href="#top"
+          style={{ backgroundColor: "transparent", border: "none" }}
+        >
+          <i class="fas fa-arrow-circle-up"></i>
         </a>
       </div>
 

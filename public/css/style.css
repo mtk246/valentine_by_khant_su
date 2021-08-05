@@ -33,6 +33,12 @@ h1 {
   right: 1.5rem;
 }
 
+.fa-arrow-circle-up {
+  color: #1abc9c;
+  font-size: 3rem;
+  padding: 0 1.5rem;
+}
+
 .container-fluid {
   padding: 0 3%;
   text-align: center;
@@ -509,37 +515,9 @@ a.open:hover, a:hover a.open:active, a:active {
 /*****footer starts*****/
 
 .footer {
-  position: absolute;
-  display: block;
-}
-
-.footer .loveyou img {
-  width: 60%;
-  margin-left: 20%;
-  height: auto;
-}
-
-.final {
-  width: 100%;
-  position: absolute;
-  background-color: transparent;
-  font-weight: bold;
-  letter-spacing: 0.3px;
-  height: 50px;
-  line-height: 50px;
-  text-align: center;
-}
-
-.final .name {
-  font-family: 'Parisienne', cursive;
-  font-size: 20px;
-}
-
-.footer {
-  text-align: center;
-  position: relative;
-  display: block;
-  padding: 1%;
-  font-size: 1rem;
   text-transform: uppercase;
+  padding: 1rem;
+  background-color: #FBF7F1;
+  color: #1abc9c;
+  font-weight: bold;
 }
