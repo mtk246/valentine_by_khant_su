@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/valentine_by_khant_su/static/js/main.d211f700.chunk.js",
+    "main.js.map": "/valentine_by_khant_su/static/js/main.d211f700.chunk.js.map",
+    "runtime-main.js": "/valentine_by_khant_su/static/js/runtime-main.a1b0249e.js",
+    "runtime-main.js.map": "/valentine_by_khant_su/static/js/runtime-main.a1b0249e.js.map",
+    "static/js/2.e9f3d947.chunk.js": "/valentine_by_khant_su/static/js/2.e9f3d947.chunk.js",
+    "static/js/2.e9f3d947.chunk.js.map": "/valentine_by_khant_su/static/js/2.e9f3d947.chunk.js.map",
+    "index.html": "/valentine_by_khant_su/index.html",
+    "precache-manifest.7a5f14037d7866749f061a48ec820af5.js": "/valentine_by_khant_su/precache-manifest.7a5f14037d7866749f061a48ec820af5.js",
+    "service-worker.js": "/valentine_by_khant_su/service-worker.js",
+    "static/js/2.e9f3d947.chunk.js.LICENSE.txt": "/valentine_by_khant_su/static/js/2.e9f3d947.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1b0249e.js",
+    "static/js/2.e9f3d947.chunk.js",
+    "static/js/main.d211f700.chunk.js"
+  ]
+}
